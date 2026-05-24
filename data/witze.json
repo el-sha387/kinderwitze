@@ -1,0 +1,311 @@
+{
+  "kategorien": [
+    { "id": "fritzchen", "name": "Fritzchen-Witze", "emoji": "👦" },
+    { "id": "magie", "name": "Magie-Witze", "emoji": "🪄" },
+    { "id": "harrypotter", "name": "Harry Potter", "emoji": "⚡" },
+    { "id": "tiere", "name": "Tier-Witze", "emoji": "🐾" },
+    { "id": "schule", "name": "Schul-Witze", "emoji": "📚" }
+  ],
+  "witze": [
+    {
+      "id": 1,
+      "kategorie": "fritzchen",
+      "setup": "Fritzchen kommt nach Hause: »Mama, ich war heute der Beste in der Schule!« – »Wirklich? Wie das?«",
+      "punchline": "»Alle anderen waren krank.«"
+    },
+    {
+      "id": 2,
+      "kategorie": "fritzchen",
+      "setup": "Lehrer: »Fritzchen, was ist 5 mal 5?« – Fritzchen: »25!« – Lehrer: »Richtig!«",
+      "punchline": "Fritzchen: »Und was krieg ich dafür?«"
+    },
+    {
+      "id": 3,
+      "kategorie": "fritzchen",
+      "setup": "Fritzchen zur Mutter: »Mama, darf ich heute nicht in die Schule?« – Mama: »Wo tut's dir weh?«",
+      "punchline": "Fritzchen: »In der Schule.«"
+    },
+    {
+      "id": 4,
+      "kategorie": "fritzchen",
+      "setup": "Lehrerin: »Fritzchen, nenn mir bitte ein Tier, das in Afrika lebt.« – Fritzchen: »Einen Löwen.« – Lehrerin: »Sehr gut. Und ein weiteres?«",
+      "punchline": "Fritzchen: »Noch einen Löwen.«"
+    },
+    {
+      "id": 5,
+      "kategorie": "fritzchen",
+      "setup": "Mama: »Fritzchen, warum hast du 3 Stunden Nachsitzen?« – Fritzchen: »Das ist kein Ärger, Mama.«",
+      "punchline": "»Das nennt man Überstunden.«"
+    },
+    {
+      "id": 6,
+      "kategorie": "fritzchen",
+      "setup": "Lehrer: »Fritzchen, magst du Tiere?« – Fritzchen: »Ja!« – Lehrer: »Welches Tier magst du am liebsten?«",
+      "punchline": "Fritzchen: »Gebratenes Huhn.«"
+    },
+    {
+      "id": 7,
+      "kategorie": "fritzchen",
+      "setup": "Fritzchen schreibt im Aufsatz: »Mein Opa ist 80 und hat noch alle Zähne.« – Er streicht es durch und schreibt:",
+      "punchline": "»Mein Opa ist 80. Seine Zähne sind auch noch da.«"
+    },
+    {
+      "id": 8,
+      "kategorie": "fritzchen",
+      "setup": "Lehrer: »Wer hat diesen Satz abgeschrieben?« – Alle schweigen.",
+      "punchline": "Fritzchen: »Ich nicht! Ich hab den Satz daneben abgeschrieben!«"
+    },
+    {
+      "id": 9,
+      "kategorie": "fritzchen",
+      "setup": "Fritzchen fragt: »Papa, warum haben wir nur einen Vater, aber so viele Mütter?«",
+      "punchline": "»Du sagst doch immer Mutter Natur, Mutter Erde, Mutter Maria...«"
+    },
+    {
+      "id": 10,
+      "kategorie": "fritzchen",
+      "setup": "Lehrerin: »Fritzchen, erkläre mir den Unterschied zwischen einem Fehler und einem Irrtum.«",
+      "punchline": "Fritzchen: »Einen Irrtum macht man aus Versehen. Einen Fehler macht man, wenn die Lehrerin zuschaut.«"
+    },
+    {
+      "id": 11,
+      "kategorie": "tiere",
+      "setup": "Warum können Elefanten nicht Fahrrad fahren?",
+      "punchline": "Weil sie keine Daumen haben, um die Klingel zu betätigen!"
+    },
+    {
+      "id": 12,
+      "kategorie": "tiere",
+      "setup": "Warum haben Fische keine Computer?",
+      "punchline": "Weil sie Angst vor dem Netz haben!"
+    },
+    {
+      "id": 13,
+      "kategorie": "tiere",
+      "setup": "Warum gehen Kühe ins Theater?",
+      "punchline": "Weil sie gerne Moo-sicals sehen!"
+    },
+    {
+      "id": 14,
+      "kategorie": "tiere",
+      "setup": "Begegnen sich zwei Fische. Sagt der eine: »Na, wie geht's?«",
+      "punchline": "Antwortet der andere: »Danke, sehr feucht!«"
+    },
+    {
+      "id": 15,
+      "kategorie": "tiere",
+      "setup": "Was macht eine Biene, wenn sie etwas nicht versteht?",
+      "punchline": "Sie fragt: »Hä-nig?«"
+    },
+    {
+      "id": 16,
+      "kategorie": "tiere",
+      "setup": "Warum schreiben Schmetterlinge keine Bücher?",
+      "punchline": "Weil ihr Leben schon ein Verwandlungsroman ist!"
+    },
+    {
+      "id": 17,
+      "kategorie": "tiere",
+      "setup": "Was ist grün und sitzt auf einem Baum?",
+      "punchline": "Ein Frosch, der klettern übt!"
+    },
+    {
+      "id": 18,
+      "kategorie": "tiere",
+      "setup": "Warum fliegen Vögel nach Süden?",
+      "punchline": "Weil es zu weit zum Laufen wäre!"
+    },
+    {
+      "id": 19,
+      "kategorie": "tiere",
+      "setup": "Was sagt die Kuh zur anderen Kuh?",
+      "punchline": "»Du bist doch mein bestes Freund-Rind!«"
+    },
+    {
+      "id": 20,
+      "kategorie": "tiere",
+      "setup": "Welcher Fisch schwimmt rückwärts?",
+      "punchline": "Der Krebs! (Aber der ist gar kein Fisch – typisch Krebs!)"
+    },
+    {
+      "id": 21,
+      "kategorie": "schule",
+      "setup": "Lehrer: »Paula, warum hast du deine Hausaufgaben nicht gemacht?«",
+      "punchline": "Paula: »Ich wollte nicht, dass mein Heft so voll wird.«"
+    },
+    {
+      "id": 22,
+      "kategorie": "schule",
+      "setup": "Warum bringt der Schüler immer eine Leiter mit in die Schule?",
+      "punchline": "Weil er zur Oberschule will!"
+    },
+    {
+      "id": 23,
+      "kategorie": "schule",
+      "setup": "Was ist das Lieblingsessen aller Schüler?",
+      "punchline": "Pausen-Brot!"
+    },
+    {
+      "id": 24,
+      "kategorie": "schule",
+      "setup": "Lehrer: »Was ist das Gegenteil von Freude?«",
+      "punchline": "Schüler: »Schule!«"
+    },
+    {
+      "id": 25,
+      "kategorie": "schule",
+      "setup": "Was ist das Lieblingstier aller Lehrer?",
+      "punchline": "Der Hund – weil er immer sitzen bleibt!"
+    },
+    {
+      "id": 26,
+      "kategorie": "schule",
+      "setup": "Lehrerin: »Kannst du mir Photosynthese erklären?«",
+      "punchline": "Schüler: »Das ist das, was mein Handy macht wenn es am Laden ist.«"
+    },
+    {
+      "id": 27,
+      "kategorie": "schule",
+      "setup": "Lehrer: »Wenn ich sage, ich habe gesungen, wie nennt man das?«",
+      "punchline": "Schüler: »Eine Lüge!«"
+    },
+    {
+      "id": 28,
+      "kategorie": "schule",
+      "setup": "Was ist das Lieblingsschulfach der Schlange?",
+      "punchline": "Biologie – da darf sie die Zunge rausstrecken!"
+    },
+    {
+      "id": 29,
+      "kategorie": "schule",
+      "setup": "Lehrer: »Max, wie lautet das Ergebnis von 100 geteilt durch 4?« – Max: »4?« – Lehrer: »Falsch.«",
+      "punchline": "Max: »Aber dafür war mein Lösungsweg sehr kreativ!«"
+    },
+    {
+      "id": 30,
+      "kategorie": "schule",
+      "setup": "Was sagt ein Bleistift zum anderen?",
+      "punchline": "»Na, wie war dein Schultag?«"
+    },
+    {
+      "id": 31,
+      "kategorie": "magie",
+      "setup": "Warum wurde der Zauberer aus dem Restaurant geworfen?",
+      "punchline": "Weil er die Speisekarte in seinen Hut gesteckt hat!"
+    },
+    {
+      "id": 32,
+      "kategorie": "magie",
+      "setup": "Was sagt ein Zauberer, wenn er seinen Zauberstab verliert?",
+      "punchline": "»Das ist kein Trick!«"
+    },
+    {
+      "id": 33,
+      "kategorie": "magie",
+      "setup": "Wie nennt man einen Zauberer, der keine Tricks mehr kann?",
+      "punchline": "Einen Pensionisten!"
+    },
+    {
+      "id": 34,
+      "kategorie": "magie",
+      "setup": "Was sagt ein Zauberer auf der Geburtstagsfeier?",
+      "punchline": "»Abrakadabra – und weg ist die Torte!«"
+    },
+    {
+      "id": 35,
+      "kategorie": "magie",
+      "setup": "Warum lernt der kleine Zauberer so fleißig Mathe?",
+      "punchline": "Um seine Tricks zu multiplizieren!"
+    },
+    {
+      "id": 36,
+      "kategorie": "magie",
+      "setup": "Wie nennt man eine Zauberin mit Kopfschmerzen?",
+      "punchline": "Eine Hexe mit Migr-äne!"
+    },
+    {
+      "id": 37,
+      "kategorie": "magie",
+      "setup": "Was hat ein Zauberer immer dabei?",
+      "punchline": "Einen Ass im Ärmel – und einen Hasen im Hut!"
+    },
+    {
+      "id": 38,
+      "kategorie": "magie",
+      "setup": "Warum gehen Zauberer nie zum Arzt?",
+      "punchline": "Weil sie sich selbst heilen können – oder zumindest so tun als ob!"
+    },
+    {
+      "id": 39,
+      "kategorie": "magie",
+      "setup": "Was ist der Unterschied zwischen einem Zauberer und einem Schüler?",
+      "punchline": "Der Zauberer lässt Dinge verschwinden, der Schüler seine Hausaufgaben!"
+    },
+    {
+      "id": 40,
+      "kategorie": "magie",
+      "setup": "Was sagt der Zauberlehrling nach dem ersten Schultag?",
+      "punchline": "»Ich hab's nicht raus – ich hab's rein gezaubert!«"
+    },
+    {
+      "id": 41,
+      "kategorie": "harrypotter",
+      "setup": "Warum kann Voldemort keine Brille tragen?",
+      "punchline": "Weil er keine Nase hat, auf der sie sitzt!"
+    },
+    {
+      "id": 42,
+      "kategorie": "harrypotter",
+      "setup": "Warum ist Hermine so gut in der Schule?",
+      "punchline": "Weil sie alle Bücher verschlingt – auch die, die zurückbeißen!"
+    },
+    {
+      "id": 43,
+      "kategorie": "harrypotter",
+      "setup": "Wie nennt man einen Zauberer ohne Zauberstab?",
+      "punchline": "Einen Muggle in der Krise!"
+    },
+    {
+      "id": 44,
+      "kategorie": "harrypotter",
+      "setup": "Warum schläft Hagrid immer auf dem Boden?",
+      "punchline": "Weil er kein Bett in seiner Größe findet!"
+    },
+    {
+      "id": 45,
+      "kategorie": "harrypotter",
+      "setup": "Warum geht Dobby nie zum Arzt?",
+      "punchline": "Weil er immer eine Socke dabei hat – und das reicht ihm!"
+    },
+    {
+      "id": 46,
+      "kategorie": "harrypotter",
+      "setup": "Was sagt ein Schüler in Hogwarts, wenn er die Tür öffnet?",
+      "punchline": "»Aloha-mora!«"
+    },
+    {
+      "id": 47,
+      "kategorie": "harrypotter",
+      "setup": "Warum heißt der Zug nach Hogwarts Hogwarts-Express?",
+      "punchline": "Weil er nicht auf die Bremse wartet!"
+    },
+    {
+      "id": 48,
+      "kategorie": "harrypotter",
+      "setup": "Was ist Neville Longbottoms Lieblingsessen?",
+      "punchline": "Omas Bohneneintopf – den vergisst man nie... oder doch?"
+    },
+    {
+      "id": 49,
+      "kategorie": "harrypotter",
+      "setup": "Warum ist Quidditch das beliebteste Spiel in Hogwarts?",
+      "punchline": "Weil man dabei nicht auf den Boden schaut – der ist nämlich sehr weit unten!"
+    },
+    {
+      "id": 50,
+      "kategorie": "harrypotter",
+      "setup": "Was sagt Ron, wenn Harry mal wieder den Schnatz fängt?",
+      "punchline": "»Und ich hab einfach nichts gemacht. Mal wieder.«"
+    }
+  ]
+}
