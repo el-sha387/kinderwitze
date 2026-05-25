@@ -24,6 +24,11 @@
       "id": "schule",
       "name": "Schul-Witze",
       "emoji": "📚"
+    },
+    {
+      "id": "sport",
+      "name": "Sport-Witze",
+      "emoji": "⚽"
     }
   ],
   "witze": [
@@ -6026,6 +6031,306 @@
       "kategorie": "harrypotter",
       "setup": "Was sagt Dumbledore am Ende von allem?",
       "punchline": "»Worte sind die mächtigste Magie, die wir besitzen.« – Und er hat damit recht."
+    },
+    {
+      "id": 1001,
+      "kategorie": "sport",
+      "setup": "Warum trägt der Fußballer immer einen Regenschirm?",
+      "punchline": "Weil er auf den Elfmeter wartet und es immer schießt!"
+    },
+    {
+      "id": 1002,
+      "kategorie": "sport",
+      "setup": "Was sagt ein Fußballtor zum Ball?",
+      "punchline": "Komm rein, ich habe extra aufgemacht!"
+    },
+    {
+      "id": 1003,
+      "kategorie": "sport",
+      "setup": "Warum ist der Basketballspieler so gut in der Schule?",
+      "punchline": "Weil er immer die besten Punkte macht!"
+    },
+    {
+      "id": 1004,
+      "kategorie": "sport",
+      "setup": "Was sagt der Tennisball zum Schläger?",
+      "punchline": "Hau mich nicht so! Das ist doch kein Spaß!"
+    },
+    {
+      "id": 1005,
+      "kategorie": "sport",
+      "setup": "Warum kann der Schwimmer nicht schlafen?",
+      "punchline": "Weil er immer im Kraulgang denkt!"
+    },
+    {
+      "id": 1006,
+      "kategorie": "sport",
+      "setup": "Was ist der Lieblingsfilm eines Radfahrers?",
+      "punchline": "Zwei Räder für ein Halleluja!"
+    },
+    {
+      "id": 1007,
+      "kategorie": "sport",
+      "setup": "Warum hat der Turner beim Wettkampf gelacht?",
+      "punchline": "Weil der Barren ihn zum Lachen gebracht hat!"
+    },
+    {
+      "id": 1008,
+      "kategorie": "sport",
+      "setup": "Was sagt ein Läufer, wenn er ins Ziel kommt?",
+      "punchline": "Endlich! Meine Beine dachten schon, ich höre nie auf!"
+    },
+    {
+      "id": 1009,
+      "kategorie": "sport",
+      "setup": "Warum nehmen Fußballer immer ein Wörterbuch mit?",
+      "punchline": "Damit sie wissen was Abseits bedeutet — auch nach zwanzig Jahren!"
+    },
+    {
+      "id": 1010,
+      "kategorie": "sport",
+      "setup": "Wie nennt man einen Fußballer ohne Beine?",
+      "punchline": "Einen Torwart — der steht eh nur rum!"
+    },
+    {
+      "id": 1011,
+      "kategorie": "sport",
+      "setup": "Warum hat der Basketballkorb Angst?",
+      "punchline": "Weil immer jemand auf ihn zielt!"
+    },
+    {
+      "id": 1012,
+      "kategorie": "sport",
+      "setup": "Was sagt der Tennisspieler nach dem Spiel zum Netz?",
+      "punchline": "Du warst heute wieder im Weg!"
+    },
+    {
+      "id": 1013,
+      "kategorie": "sport",
+      "setup": "Warum duscht ein Schwimmer nie nach dem Training?",
+      "punchline": "Weil er meint er war schon die ganze Zeit im Wasser!"
+    },
+    {
+      "id": 1014,
+      "kategorie": "sport",
+      "setup": "Was fragt ein Radfahrer den anderen am Berg?",
+      "punchline": "Geht es dir gut? Du schaust so bergab aus!"
+    },
+    {
+      "id": 1015,
+      "kategorie": "sport",
+      "setup": "Warum ist der Leichtathlet so schlank?",
+      "punchline": "Weil er alles was er isst sofort wegläuft!"
+    },
+    {
+      "id": 1016,
+      "kategorie": "sport",
+      "setup": "Was sagt der Fußballschuh zum Fußball?",
+      "punchline": "Ich trete nur ab — du fliegst immer davon!"
+    },
+    {
+      "id": 1017,
+      "kategorie": "sport",
+      "setup": "Was ist das Lieblingsessen eines Turners?",
+      "punchline": "Salto — weil man dabei auch viel dreht!"
+    },
+    {
+      "id": 1018,
+      "kategorie": "sport",
+      "setup": "Warum hat der Sprinter kein Handy?",
+      "punchline": "Weil er immer wegläuft bevor es klingelt!"
+    },
+    {
+      "id": 1019,
+      "kategorie": "sport",
+      "setup": "Was sagt ein Torwart wenn er ein Tor kassiert?",
+      "punchline": "Das war ein Aufwärmschuss — jetzt bin ich bereit!"
+    },
+    {
+      "id": 1020,
+      "kategorie": "sport",
+      "setup": "Warum spielen Basketballer so gern Karten?",
+      "punchline": "Weil sie immer versuchen einen Ass zu werfen!"
+    },
+    {
+      "id": 1021,
+      "kategorie": "sport",
+      "setup": "Was macht ein Tennisspieler im Winter?",
+      "punchline": "Er übt Aufschlag beim Schneeschippen!"
+    },
+    {
+      "id": 1022,
+      "kategorie": "sport",
+      "setup": "Was sagt das Fahrrad zum Radfahrer am steilen Berg?",
+      "punchline": "Ich trete auch — aber nur in die Pedale!"
+    },
+    {
+      "id": 1023,
+      "kategorie": "sport",
+      "setup": "Warum lacht der Hochspringer nie?",
+      "punchline": "Weil er immer über sich hinauswachsen muss!"
+    },
+    {
+      "id": 1024,
+      "kategorie": "sport",
+      "setup": "Was ist der Unterschied zwischen einem Fußballer und einem Hund?",
+      "punchline": "Der Hund trifft das Tor auch beim ersten Versuch!"
+    },
+    {
+      "id": 1025,
+      "kategorie": "sport",
+      "setup": "Warum ist der Basketballspieler der beste Freund des Bäckers?",
+      "punchline": "Weil er immer Brötchen in den Korb legt!"
+    },
+    {
+      "id": 1026,
+      "kategorie": "sport",
+      "setup": "Was sagt der Turner zum Reck?",
+      "punchline": "Ich komme jeden Tag — kannst du mich nicht wenigstens ein bisschen loslassen?"
+    },
+    {
+      "id": 1027,
+      "kategorie": "sport",
+      "setup": "Warum ist der Langstreckenläufer immer müde?",
+      "punchline": "Weil er nie weiß wann er aufhören soll!"
+    },
+    {
+      "id": 1028,
+      "kategorie": "sport",
+      "setup": "Was sagt ein Fußball zum anderen?",
+      "punchline": "Heute bist du dran — ich bin schon zweimal getreten worden!"
+    },
+    {
+      "id": 1029,
+      "kategorie": "sport",
+      "setup": "Warum kauft der Tennisspieler immer neue Schuhe?",
+      "punchline": "Weil er auf dem Platz immer hin und her läuft!"
+    },
+    {
+      "id": 1030,
+      "kategorie": "sport",
+      "setup": "Was fragt der Schwimmtrainer den neuen Schüler?",
+      "punchline": "Kannst du schwimmen? — Nein, aber ich lerne schnell — ich sinke sehr langsam!"
+    },
+    {
+      "id": 1031,
+      "kategorie": "sport",
+      "setup": "Warum fährt der Radfahrer immer in der Mitte der Straße?",
+      "punchline": "Damit er nach beiden Seiten gleich weit fallen kann!"
+    },
+    {
+      "id": 1032,
+      "kategorie": "sport",
+      "setup": "Was sagt der Diskuswerfer zu seiner Scheibe?",
+      "punchline": "Flieg schon — ich kann nicht immer hinter dir herrennen!"
+    },
+    {
+      "id": 1033,
+      "kategorie": "sport",
+      "setup": "Warum hat der Fußballschiedsrichter immer eine Pfeife?",
+      "punchline": "Weil ihm sonst niemand zuhört wenn er etwas sagt!"
+    },
+    {
+      "id": 1034,
+      "kategorie": "sport",
+      "setup": "Was ist ein Basketballspieler ohne Ball?",
+      "punchline": "Sehr groß und ziemlich ratlos!"
+    },
+    {
+      "id": 1035,
+      "kategorie": "sport",
+      "setup": "Was sagt der Stabhochspringer vor dem Sprung?",
+      "punchline": "Ich fliege jetzt — sagt mir wann ich landen soll!"
+    },
+    {
+      "id": 1036,
+      "kategorie": "sport",
+      "setup": "Warum ist Schwimmen der gesündeste Sport?",
+      "punchline": "Weil man danach so gut riecht — nach Chlor!"
+    },
+    {
+      "id": 1037,
+      "kategorie": "sport",
+      "setup": "Was sagt der Radsattel zum Radfahrer nach 100 Kilometern?",
+      "punchline": "Ich habe auch Schmerzen — glaub mir!"
+    },
+    {
+      "id": 1038,
+      "kategorie": "sport",
+      "setup": "Warum verliert das Fußballteam der Bäcker immer?",
+      "punchline": "Weil sie den Ball immer aufgehen lassen wollen!"
+    },
+    {
+      "id": 1039,
+      "kategorie": "sport",
+      "setup": "Was macht ein Tennisspieler wenn er verliert?",
+      "punchline": "Er sagt: Der Ball hatte eine komische Form!"
+    },
+    {
+      "id": 1040,
+      "kategorie": "sport",
+      "setup": "Warum hat der Marathonläufer immer ein Lächeln?",
+      "punchline": "Weil er nach 40 Kilometern nicht mehr weinen kann!"
+    },
+    {
+      "id": 1041,
+      "kategorie": "sport",
+      "setup": "Warum essen Radfahrer so viel Pasta?",
+      "punchline": "Damit die Beine auch nach dem zwanzigsten Berg noch drehen!"
+    },
+    {
+      "id": 1042,
+      "kategorie": "sport",
+      "setup": "Was sagt der Fußballtrainer in der Halbzeit?",
+      "punchline": "Ihr habt null Tore geschossen — in der zweiten Hälfte bitte ein bisschen mehr als null!"
+    },
+    {
+      "id": 1043,
+      "kategorie": "sport",
+      "setup": "Was sagt ein Sprinter zu seinem Schatten?",
+      "punchline": "Du bist der Einzige der immer mitläuft — und manchmal sogar schneller bist!"
+    },
+    {
+      "id": 1044,
+      "kategorie": "sport",
+      "setup": "Warum spielen Fische nie Fußball?",
+      "punchline": "Weil sie immer ins Netz denken!"
+    },
+    {
+      "id": 1045,
+      "kategorie": "sport",
+      "setup": "Was sagt der Hammerwerfer nach dem Wettkampf?",
+      "punchline": "Ich weiß wo mein Hammer landet — ich weiß nur nicht wo mein Schuh ist!"
+    },
+    {
+      "id": 1046,
+      "kategorie": "sport",
+      "setup": "Was sagt der Basketballkorb zum Ball?",
+      "punchline": "Einmal rein — und dann soll ich dich wieder rauslassen? Nie!"
+    },
+    {
+      "id": 1047,
+      "kategorie": "sport",
+      "setup": "Warum nimmt der Turner immer Kreide mit?",
+      "punchline": "Damit seine Hände nicht rutschen — und er dem Lehrer zeigen kann was er gelernt hat!"
+    },
+    {
+      "id": 1048,
+      "kategorie": "sport",
+      "setup": "Was sagt der Hochspringer zur Latte?",
+      "punchline": "Wir treffen uns jeden Tag — und du lässt mich trotzdem fallen!"
+    },
+    {
+      "id": 1049,
+      "kategorie": "sport",
+      "setup": "Warum ist Fußball der beliebteste Sport der Welt?",
+      "punchline": "Weil man 90 Minuten lang schreien darf — und das völlig legal ist!"
+    },
+    {
+      "id": 1050,
+      "kategorie": "sport",
+      "setup": "Was sagt der Volleyball zum Spieler?",
+      "punchline": "Ich mag dich — du haust mich immer so schön über das Netz!"
     }
   ]
 }

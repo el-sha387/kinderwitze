@@ -21,20 +21,30 @@ function getTagesWitzeClient(): { morgen: Witz; abend: Witz } {
 export default function TagesWitze() {
   const [witze, setWitze] = useState<{ morgen: Witz; abend: Witz } | null>(null);
   const [datum, setDatum] = useState("");
+  const [stunde, setStunde] = useState(0);
 
   useEffect(() => {
-    setWitze(getTagesWitzeClient());
-    setDatum(
-      new Date().toLocaleDateString("de-DE", {
-        weekday: "long",
-        day: "numeric",
-        month: "long",
-      })
-    );
+    const aktualisieren = () => {
+      const jetzt = new Date();
+      setWitze(getTagesWitzeClient());
+      setDatum(
+        jetzt.toLocaleDateString("de-DE", {
+          weekday: "long",
+          day: "numeric",
+          month: "long",
+        })
+      );
+      setStunde(jetzt.getHours());
+    };
+    aktualisieren();
+    // jede Minute neu prüfen (für den Wechsel um 18:00 Uhr)
+    const interval = setInterval(aktualisieren, 60_000);
+    return () => clearInterval(interval);
   }, []);
 
   if (!witze) return null;
 
+  const abendVerfuegbar = stunde >= 18;
   const morgenKat = getKategorie(witze.morgen.kategorie);
   const abendKat = getKategorie(witze.abend.kategorie);
 
@@ -46,6 +56,7 @@ export default function TagesWitze() {
       </div>
 
       <div className="flex flex-col gap-4">
+        {/* Morgenwitz – immer sichtbar */}
         <div>
           <div className="flex items-center gap-2 mb-2">
             <span className="text-lg">☀️</span>
@@ -58,16 +69,29 @@ export default function TagesWitze() {
           />
         </div>
 
+        {/* Abendwitz – erst ab 18:00 Uhr */}
         <div>
           <div className="flex items-center gap-2 mb-2">
             <span className="text-lg">🌙</span>
             <span className="text-sm font-bold text-teal-700 uppercase tracking-wide">Abendwitz</span>
           </div>
-          <WitzCard
-            witz={witze.abend}
-            kategorieName={abendKat?.name}
-            kategorieEmoji={abendKat?.emoji}
-          />
+          {abendVerfuegbar ? (
+            <WitzCard
+              witz={witze.abend}
+              kategorieName={abendKat?.name}
+              kategorieEmoji={abendKat?.emoji}
+            />
+          ) : (
+            <div className="bg-white rounded-2xl shadow-md border border-teal-100 p-5 flex items-center gap-4">
+              <span className="text-4xl">🔒</span>
+              <div>
+                <p className="font-bold text-gray-900">Noch gesperrt</p>
+                <p className="text-sm text-teal-600 mt-0.5">
+                  Der Abendwitz erscheint um <strong>18:00 Uhr</strong>
+                </p>
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </>
